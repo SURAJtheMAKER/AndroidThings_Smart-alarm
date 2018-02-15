@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "732873537146",
+    "firebase_url": "https://smar-home-security.firebaseio.com",
+    "project_id": "smar-home-security",
+    "storage_bucket": "smar-home-security.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732873537146:android:e84d46ccb420c171",
+        "android_client_info": {
+          "package_name": "za.co.riggaroo.motioncamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732873537146-j9c59l04se6re25d544ghf9f0mcom3l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPuobRJhcisgQtmQeSExLC7znsOlCCtYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
